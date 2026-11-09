@@ -1,0 +1,6 @@
+{
+  "name": "Sree Durga Matha Stationery",
+  "description": "Digital visiting card for Sree Durga Matha Stationery, Book Stall & Fancy Items. Connect on WhatsApp and find our store location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
